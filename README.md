@@ -9,7 +9,7 @@ A Python-based maze generation and solving application that uses various search 
   - **DFS (Depth-First Search)**: Uses a stack-based approach
   - **BFS (Breadth-First Search)**: Uses a queue-based approach
   - **GBFS (Greedy Best-First Search)**: Uses Manhattan distance heuristic
-  - **A* (A-Star)**: Optimal pathfinding with cost and heuristic
+  - **A\* (A-Star)**: Optimal pathfinding with cost and heuristic
 - **Visual Representation**: Real-time visualization of maze generation and solving using Pygame
 - **Customizable Maze Size**: User can specify maze dimensions
 
