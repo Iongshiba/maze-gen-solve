@@ -2,6 +2,7 @@
 
 A Python-based maze generation and solving application that uses various search algorithms to find paths through procedurally generated mazes. The application features a visual interface using Pygame to display maze generation and solving processes.
 
+![](https://github.com/Iongshiba/maze-gen-solve/blob/d6ffee7c09e728c50db9e2664605433096f96f2f/demo/maze.gif)
 ![](https://github.com/Iongshiba/maze-gen-solve/blob/9f644000c6ee34254989f44a3c60e78c8b1e6910/demo/DFS.gif)
 
 ## Features
@@ -109,5 +110,6 @@ This project is open source and available for educational purposes.
 ## Author
 
 Created by [Iongshiba](https://github.com/Iongshiba)
+
 
 
