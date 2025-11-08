@@ -2,6 +2,8 @@
 
 A Python-based maze generation and solving application that uses various search algorithms to find paths through procedurally generated mazes. The application features a visual interface using Pygame to display maze generation and solving processes.
 
+![](demo/DFS.gif)
+
 ## Features
 
 - **Maze Generation**: Automatically generates random mazes using depth-first search algorithm
@@ -107,3 +109,4 @@ This project is open source and available for educational purposes.
 ## Author
 
 Created by [Iongshiba](https://github.com/Iongshiba)
+
